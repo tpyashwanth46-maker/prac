@@ -1,1 +1,2 @@
 print("yash")
+print("nanu")
